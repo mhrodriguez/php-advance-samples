@@ -8,6 +8,8 @@
   <body>
 
     <?php echo 'PHP is working!'; ?>
+        <?php echo 'Mario'; ?>
+
 
   </body>
 </html>
